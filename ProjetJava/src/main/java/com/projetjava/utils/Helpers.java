@@ -1,3 +1,5 @@
+package com.projetjava.utils;
+
 public class Helpers {
 
     public static double round(double value, int places) {

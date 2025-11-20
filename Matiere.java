@@ -1,7 +1,4 @@
-package com.projetjava.models;
-
 public class Matiere {
-
     private String nom;
     private int coef;
 
